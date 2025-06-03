@@ -1,0 +1,3 @@
+echo "console.log('Halo Boundless!');" > hello.js
+git add hello.js
+git commit -m "Add hello.js script"
